@@ -1,5 +1,4 @@
 # Investigating the Impact of Stacked vs Single Modality on Segmentation Analysis Using Transfer Learning with SegFormer
-============================================================
 This is the repository for the final project for BME6938: Multimodal Data Mining (Spring 23) by Team Cats Can.
 
 ## Team Members
