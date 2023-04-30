@@ -29,7 +29,7 @@ Gold Atlas
 --------
 
 ```bash
-./goldA_preproc.sh
+./gold_atlas_preproc.sh
 ```
 ```python
 PelvicSegmentation.ipynb
